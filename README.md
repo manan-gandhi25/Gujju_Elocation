@@ -26,7 +26,7 @@ Our platform offers user-friendly web and mobile interfaces, ensuring convenient
 
 8.After creating database name click on import.
 
-9.Browse the file in directory(info_farmik\common\infofarmik.sql)
+9.Browse the file in directory(gujju_elocation\common\infofarmik.sql)
 
 10.After importing successfully.
 
