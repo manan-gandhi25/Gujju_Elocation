@@ -10,3 +10,26 @@ Our platform offers user-friendly web and mobile interfaces, ensuring convenient
 
 # Installation
 
+1.Install XAMPP or WAMPP.
+
+2.Open XAMPP Control panal and start [apache] and [mysql] .
+
+3.Download project from github
+
+4.Extract files in C:\xampp\htdocs and rename the downloaded folder as the gujju_elocation.
+
+5.Open link localhost/phpmyadmin
+
+6.Click on new at side navbar.
+
+7.Give a database name as (gujju_elocation) hit on create button.
+
+8.After creating database name click on import.
+
+9.Browse the file in directory(info_farmik\common\infofarmik.sql)
+
+10.After importing successfully.
+
+11.Open any browser and type http://localhost/gujju_elocation.
+
+12.First register and then login.
